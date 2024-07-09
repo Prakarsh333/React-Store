@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Blue Hoodie",
+        "image": "https://pangaia.com/cdn/shop/products/Heavyweight-Recycled-Cotton-Hoodie-Cobalt-Blue-1.png?v=1663231767"
+    },
+    {
+        "id":2,
+        "name": "Black Shirt",
+        "image": "https://i.etsystatic.com/22819560/r/il/a5f6b8/3963743381/il_570xN.3963743381_ak2s.jpg"
+    },
+    {
+        "id":3,
+        "name": "White Shirt",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shirt/7/k/2/xl-kcsh-fo-1647-ma-fubar-original-imaghehzpwgjzg2y.jpeg?q=90&crop=false"
+    },
+    {
+        "id":4,
+        "name": "Orange Shirt",
+        "image": "https://5.imimg.com/data5/LK/DZ/QC/SELLER-69248581/mens-plain-orange-shirt.jpg"
+    },
+    {
+        "id":5,
+        "name": "Black Pants",
+        "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F22%2F09%2F220958f2843ff0650d3efc0da582da1a796e4c06.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmobilemain%5D"
+    },
+    {
+        "id":6,
+        "name": "White Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/files/1_fef9db44-cd7e-4c51-93ba-2ca76582bf35.jpg?v=1694513585"
+    }
+]
